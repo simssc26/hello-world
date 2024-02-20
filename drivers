@@ -84,5 +84,20 @@ f2fs-tools
 xfsprogs
 btrfs-progs
 hplip
+dhcpcd
+openssh
+wireless_tools
+net-tools
+traceroute 
+whois 
+dnsutils
+
+
+
+
+
+
+
+
 
 

@@ -28,9 +28,16 @@ light
 tlp
 powertop
 acpi
+upower
 lm_sensors
 psensor
 mkfs.ext4
+xbindkeys
+xorg-server
+xorg-xinit
+xorg-xrandr
+xorg-xsetroot
+
 
 
 

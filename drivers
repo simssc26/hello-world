@@ -37,7 +37,10 @@ xorg-server
 xorg-xinit
 xorg-xrandr
 xorg-xsetroot
-
+mesa
+xf86-video-intel
+networkmanager
+network-manager-applet
 
 
 

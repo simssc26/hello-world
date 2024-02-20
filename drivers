@@ -6,8 +6,9 @@ thermald
 zram-generator
 xfce4
 xfce4-goodies
-
-
+alsamixer
+pactl
+xrandr
 
 
 yay -S

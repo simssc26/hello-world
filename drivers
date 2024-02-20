@@ -76,7 +76,13 @@ firefox
 bat
 browsh
 w3m
-
+dosfstools
+e2fsprogs
+exfat-utils
+ntfs-3g
+f2fs-tools
+xfsprogs
+btrfs-progs
 
 
 

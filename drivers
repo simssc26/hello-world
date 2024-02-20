@@ -4,5 +4,11 @@ fstrim.timer
 intel-ucode
 thermald
 zram-generator
+xfce4
+xfce4-goodies
 
+
+
+
+yay -S
 earlyoom

@@ -54,8 +54,20 @@ ranger
 feh
 fbi
 gimp
-
-
+qtile
+dialog
+wpa_supplicant
+blueman
+htop
+gotop
+python
+nitrogen
+lxappearance
+ttf-dejavu
+ttf-liberation
+noto-fonts
+kitty
+alacritty
 
 
 

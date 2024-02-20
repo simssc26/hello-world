@@ -45,6 +45,13 @@ dosfstools
 ntfs-3g
 e2fsprogs
 picom
+bash
+zsh
+oh-my-zsh
+vim
+nvim
+
+
 
 
 

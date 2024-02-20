@@ -68,7 +68,14 @@ ttf-liberation
 noto-fonts
 kitty
 alacritty
-
+dolphin
+thunar
+qutebrowser
+chromium
+firefox
+bat
+browsh
+w3m
 
 
 

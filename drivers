@@ -9,6 +9,13 @@ xfce4-goodies
 alsamixer
 pactl
 xrandr
+mplayer
+ffmpeg
+cheese
+
+
+
+
 
 
 yay -S

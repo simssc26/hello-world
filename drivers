@@ -25,6 +25,15 @@ earlyoom
 xf86-input-libinput
 libinput-gestures
 light
+tlp
+powertop
+acpi
+lm_sensors
+psensor
+mkfs.ext4
+
+
+
 
 
 

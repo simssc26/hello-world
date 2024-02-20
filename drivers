@@ -21,8 +21,11 @@ alsa-utils
 pulseaudio
 pulseaudio-alsa
 pavucontrol
-
-
-
-yay -S
 earlyoom
+xf86-input-libinput
+libinput-gestures
+light
+
+
+
+

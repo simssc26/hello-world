@@ -12,9 +12,15 @@ xrandr
 mplayer
 ffmpeg
 cheese
-
-
-
+yay
+paru
+broadcom-wl
+bluez
+bluez-utils
+alsa-utils
+pulseaudio
+pulseaudio-alsa
+pavucontrol
 
 
 

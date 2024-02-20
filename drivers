@@ -91,9 +91,11 @@ net-tools
 traceroute 
 whois 
 dnsutils
-
-
-
+modemmanager
+man-db
+man-pages
+texinfo
+gvim
 
 
 
